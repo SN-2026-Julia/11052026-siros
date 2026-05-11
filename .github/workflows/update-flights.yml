@@ -1,3 +1,5 @@
+name: Atualizar dados de voos (SIROS/ANAC)
+
 on:
   schedule:
     # Roda 4x por dia: 06h, 09h, 12h e 18h (horario de Brasilia = UTC-3)
